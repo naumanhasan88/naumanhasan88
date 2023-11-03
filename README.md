@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naumanhasan88.
 - 👀 I’m interested in anime.
-- 🌱 I’m currently learning meta course.
+- 🌱 I’m currently learning cwh web sigma development course.
 - 📫 How to reach me email me at workwithnauman@gmail.com
 
 <!---
