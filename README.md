@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @naumanhasan88.
 - 👀 I’m interested in anime.
-- 🌱 I’m currently learning cwh web sigma development course.
-- 📫 How to reach me email me at workwithnauman@gmail.com
+- 🌱 I’m currently learning web development.
+- working on a to-do list.
 
 <!---
 naumanhasan88/naumanhasan88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
