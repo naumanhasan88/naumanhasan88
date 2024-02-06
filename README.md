@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @naumanhasan88.
 - 👀 I’m interested in anime.
-- 🌱 I’m currently learning web development.
-- working on a to-do list.
+- 🌱 Currently learning python.
 
 <!---
 naumanhasan88/naumanhasan88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
